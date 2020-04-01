@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection" : "data source=SENTO; initial catalog=steffo; integrated security=SSPI"
+  }
+}
